@@ -1,3 +1,3 @@
 Social Client
 
-shout-96591.web.app
+http://shout-96591.web.app
